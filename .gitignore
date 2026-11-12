@@ -1,0 +1,6 @@
+.env
+__pycache__/
+chroma_db/
+gapsense.db
+venv/
+node_modules/
